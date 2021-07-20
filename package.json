@@ -1,0 +1,10 @@
+{
+  "name": "parse-breakpad",
+  "version": "0.1.0",
+  "description": "Parse breakpad symbol files in JS",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jeremy Rose <nornagon@nornagon.net>",
+  "license": "MIT"
+}
