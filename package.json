@@ -1,9 +1,14 @@
 {
   "name": "parse-breakpad",
   "version": "0.1.0",
-  "description": "Parse breakpad symbol files in JS",
+  "description": "Parse breakpad symbol files",
   "main": "index.js",
   "scripts": {},
   "author": "Jeremy Rose <nornagon@nornagon.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "goog-avl.js",
+    "LICENSE"
+  ]
 }
